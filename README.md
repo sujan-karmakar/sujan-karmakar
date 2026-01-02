@@ -59,16 +59,6 @@ My approach to growing is built on discipline and the value of time. I try to ut
 
 ---
 
-### 📫 How to reach me: 
-<p align="left">
-<a href="https://www.linkedin.com/in/sujan-karmakar"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://leetcode.com/u/sk-05/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
-<a href="https://www.hackerrank.com/profile/sk_05"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>
-</p>
-
-
----
-
 ### 📊 Performance Metrics:
 
 <p align="left">
@@ -82,6 +72,17 @@ My approach to growing is built on discipline and the value of time. I try to ut
 ![Sujan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sujan-karmakar&theme=github-compact)
 
 ---
+
+
+### 📫 How to reach me: 
+<p align="left">
+<a href="https://www.linkedin.com/in/sujan-karmakar"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/sk-05/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://www.hackerrank.com/profile/sk_05"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>
+</p>
+
+---
+
 ### 🐍 My Contribution Streak:
 ![Snake Animation](https://raw.githubusercontent.com/sujan-karmakar/sujan-karmakar/output/github-snake-dark.svg)
 
