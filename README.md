@@ -102,7 +102,7 @@ My approach to growing is built on discipline and the value of time. I try to ut
 ### 📫 How to reach me: 
 <p align="left">
 <a href="https://www.linkedin.com/in/sujan-karmakar">
-  <img src="https://badgen.net/badge/icon/linkedin?icon=linkedin&label=LinkedIn&color=0077B5&scale=1.5" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOSAwaC0xNGMtMi43NjEgMC01IDIuMjM5LTUgNXYxNGMwIDIuNzYxIDIuMjM5IDUgNSA1aDE0YzIuNzYxIDAgNS0yLjIzOSA1LTV2LTE0YzAtMi43NjEtMi4yMzktNS01LTV6bS0xMSAxOXYtOC41aC0zdi0yaDN2MTIuNXYtMi41em0tMS41LTVjLS44MjggMC0xLjUtLjY3Mi0xLjUtMS41cy42NzItMS41IDEuNS0xLjUgMS41LjY3MiAxLjUgMS41LS42NzIgMS41LTEuNSAxLjV6bTEzIDExLjVoLTN2LTUuNWMwLTEuMTA0LS44OTYtMi0yLTJzLTIgLjg5Ni0yIDJ2NS41aC0zdi0xMi41aDN2MS41Yy44MjgtMS4yNDIgMi40ODUtMiAzLjk5Ny0yIDMuMzA5IDAgNiAyLjY5MSA2IDZ2N3oiLz48L3N2Zz4=" alt="LinkedIn" />
 </a>
 <a href="https://www.instagram.com/s.karmakar18"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
 </p>
