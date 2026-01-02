@@ -49,8 +49,13 @@ My approach to growing is built on discipline and the value of time. I try to ut
 </p>
 
 
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=chijiokeokorji&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="ChijiokeOkorji's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en" alt="ChijiokeOkorji's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
-</div>
+---
+
+### 📊 Performance Metrics
+
+p align="left">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sujan-karmakar&show_icons=true&theme=nord" alt="GitHub Stats" />
+</p>
+
+**Access Logs:**
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsujan-karmakar&count_bg=%2379C1FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=ACCESS+LOGS&edge_flat=false" alt="Visitor Count"/>
