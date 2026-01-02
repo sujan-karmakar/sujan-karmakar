@@ -54,9 +54,8 @@ My approach to growing is built on discipline and the value of time. I try to ut
 ### 📊 Performance Metrics
 
 <p align="left">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sujan-karmakar&show_icons=true&theme=nord" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sujan-karmakar&layout=compact&theme=transparent&hide=html,css" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sujan-karmakar&show_icons=true&theme=transparent" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sujan-karmakar&layout=compact&theme=transparent&hide=html,css" alt="Top Languages" width="43%" />
 </p>
 
 
