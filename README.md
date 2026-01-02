@@ -2,6 +2,10 @@
 
 <!--
 **sujan-karmakar/sujan-karmakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sujan Karmakar | CSE Undergraduate
+
+**Focusing on the intersection of Artificial Intelligence and Cybersecurity.**
+I don't just "learn" topics; I deconstruct them. Currently bridging the gap between intelligent systems and secure infrastructure through daily technical deep-dives.
 
 Here are some ideas to get you started:
 
