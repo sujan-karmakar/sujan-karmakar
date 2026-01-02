@@ -55,10 +55,8 @@ My approach to growing is built on discipline and the value of time. I try to ut
 
 <p align="left">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sujan-karmakar&show_icons=true&theme=nord" alt="GitHub Stats" />
-</p>
 
-<p align="left">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sujan-karmakar&layout=compact&theme=transparent&hide=html,css" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sujan-karmakar&layout=compact&theme=transparent&hide=html,css" />
 </p>
 
 
