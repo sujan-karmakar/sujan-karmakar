@@ -58,7 +58,6 @@ My approach to growing is built on discipline and the value of time. I try to ut
 </p>
 
 <p align="left">
- Most used Languages
  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sujan-karmakar&layout=compact&theme=transparent&hide=html,css" />
 </p>
 
