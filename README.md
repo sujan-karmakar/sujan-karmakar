@@ -1,6 +1,6 @@
 # Hi, I'm Sujan Karmakar 👋
 
-## 🚀 About Me ...
+## 🚀 About Me
 
 ### I am a Computer Science & Engineering undergraduate driven by the discipline of daily progression and academic excellence.
 
@@ -16,7 +16,7 @@ My approach to growing is built on discipline and the value of time. I try to ut
 
 ---
 
-### 🛠 Tech Stack ...
+### 🛠 Tech Stack 
 
 **Languages**
 <p align="left">
@@ -41,9 +41,9 @@ My approach to growing is built on discipline and the value of time. I try to ut
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
+--
 
----
-### 📫 How to reach me: ...
+### 📫 How to reach me: 
 <p align="left">
 <a href="https://www.linkedin.com/in/sujan-karmakar"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/u/sk-05/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
