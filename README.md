@@ -57,5 +57,4 @@ p align="left">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sujan-karmakar&show_icons=true&theme=nord" alt="GitHub Stats" />
 </p>
 
-**Access Logs:**
-![Views](https://komarev.com/ghpvc/?username=sujan-karmakar&color=blue&style=flat-square&label=ACCESS+LOGS)
+
