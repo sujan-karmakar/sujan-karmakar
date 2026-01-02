@@ -47,7 +47,7 @@ My approach to growing is built on discipline and the value of time. I try to ut
 
 <p align="left">
   <a href="https://github.com/sujan-karmakar/sujan-karmakar-portfolio">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sujan-karmakar&repo=sujan-karmakar-portfolio&theme=transparent" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sujan-karmakar&repo=sujan-karmakar-portfolio&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=00ff00&border_color=00ff00" />
   </a>
 </p>
 
