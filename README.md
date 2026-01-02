@@ -41,7 +41,7 @@ My approach to growing is built on discipline and the value of time. I try to ut
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
---
+---
 
 ### 📫 How to reach me: 
 <p align="left">
@@ -60,4 +60,6 @@ My approach to growing is built on discipline and the value of time. I try to ut
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sujan-karmakar&layout=compact&theme=transparent&hide=html,css" alt="Top Languages" width="43%" />
 </p>
 
+![Snake animation](https://github.com/sujan-karmakar/sujan-karmakar/blob/output/github-contribution-grid-snake.svg)
 
+---
