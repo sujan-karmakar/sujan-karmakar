@@ -14,6 +14,7 @@ My approach to growing is built on discipline and the value of time. I try to ut
 
 * 📈 **Daily Goal:** Bridging the gap between competitive exam theory and real-world engineering.
 
+
 ### 🛠 Tech Stack
 
 **Languages**
@@ -39,11 +40,6 @@ My approach to growing is built on discipline and the value of time. I try to ut
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-
-**Visitor count**
-<div align="center"> 
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
-</div>
 
 - 📫 How to reach me: ...
 <p align="left">
