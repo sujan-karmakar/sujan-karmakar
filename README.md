@@ -102,8 +102,7 @@ My approach to growing is built on discipline and the value of time. I try to ut
 ### 📫 How to reach me: 
 <p align="left">
 <a href="https://www.linkedin.com/in/sujan-karmakar">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://badgen.net/badge/icon/linkedin?icon=linkedin&label=LinkedIn&color=0077B5&scale=1.5" alt="LinkedIn" />
 </a>
- 
 <a href="https://www.instagram.com/s.karmakar18"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
 </p>
