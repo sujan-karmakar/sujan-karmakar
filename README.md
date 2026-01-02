@@ -67,9 +67,15 @@ My approach to growing is built on discipline and the value of time. I try to ut
 
 ---
 
-### 💡 Problem Solving Metrics:
+### 💡 Problem Solving Metrics of :
+**Leetcode:**
 <p align="left">
   <img src="https://leetcard.jacoblin.cool/sk-05?theme=dark&font=Recursive&ext=activity" alt="LeetCode Stats" width="400" />
+</p>
+
+**HackerRank:**
+<p align="left">
+<a href="https://www.hackerrank.com/certificates/484fd0dde00f"><img src="https://img.shields.io/badge/-Problem_Solving_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 </p>
 
 ---
