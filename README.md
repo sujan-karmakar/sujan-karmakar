@@ -1,6 +1,6 @@
 # Hi, I'm Sujan Karmakar 👋
 
-## 🚀 About Me
+## 🚀 About Me:
 
 ### I am a Computer Science & Engineering undergraduate driven by the discipline of daily progression and academic excellence.
 
@@ -22,7 +22,7 @@ My approach to growing is built on discipline and the value of time. I try to ut
 
 ---
 
-### 🛠 Tech Stack 
+### 🛠 Tech Stack: 
 
 **Languages**
 <p align="left">
@@ -49,7 +49,7 @@ My approach to growing is built on discipline and the value of time. I try to ut
 
 ---
 
-### 🏆 Highlighted Projects
+### 🏆 Highlighted Projects:
 
 <p align="left">
   <a href="https://github.com/sujan-karmakar/sujan-karmakar-portfolio">
@@ -69,7 +69,7 @@ My approach to growing is built on discipline and the value of time. I try to ut
 
 ---
 
-### 📊 Performance Metrics ...
+### 📊 Performance Metrics:
 
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sujan-karmakar&show_icons=true&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=00ff00&border_color=00ff00" alt="GitHub Stats" width="48%" />
@@ -78,7 +78,7 @@ My approach to growing is built on discipline and the value of time. I try to ut
 
 ---
 
-### 🐍 My Contribution Streak
+### 🐍 My Contribution Streak:
 ![Snake Animation](https://raw.githubusercontent.com/sujan-karmakar/sujan-karmakar/output/github-snake-dark.svg)
 
 ---
