@@ -78,6 +78,10 @@ My approach to growing is built on discipline and the value of time. I try to ut
 
 ---
 
+### 📈 GitHub Activity Graph:
+![Sujan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sujan-karmakar&theme=github-compact)
+
+---
 ### 🐍 My Contribution Streak:
 ![Snake Animation](https://raw.githubusercontent.com/sujan-karmakar/sujan-karmakar/output/github-snake-dark.svg)
 
