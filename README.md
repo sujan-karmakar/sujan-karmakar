@@ -92,7 +92,7 @@ My approach to growing is built on discipline and the value of time. I try to ut
 ---
 
 ### 📈 GitHub Activity Graph:
-![Sujan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sujan-karmakar&theme=github-compact&area=true&hide_border=true)
+[!Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sujan-karmakar&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
