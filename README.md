@@ -8,18 +8,6 @@
 
 My approach to growing is built on discipline and the value of time. I try to utilize every bit of my free time to bridge the gap between academic theory and practical application. I believe that steady, incremental growth is the most reliable path to technical mastery.
 
-
-* 🎓 **Academic Ambition:** I am currently in the process of preparing for the **GATE (Graduate Aptitude Test in Engineering)**. My goal is to secure a top-tier result to pursue advanced specialization in Computer Science.
-
- 
-* ⚙️ **Current Focus:** Strengthening my foundation in **Backend Development** and **Data Structures & Algorithms (DSA)**.
-
- 
-* 🛡️ **Core Interests:** My passion lies in **Artificial Intelligence** and **Cybersecurity**. My fascination with cybersecurity was sparked during my study of Computer Networks—it remains my favorite subject and my long-term career destination.
-
-
-* 📈 **Daily Goal:** Bridging the gap between competitive exam theory and real-world engineering.
-
 ---
 
 ### 🛠 Tech Stack: 
