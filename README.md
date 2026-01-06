@@ -65,7 +65,7 @@ My approach to growing is built on discipline and the value of time. I try to ut
 <p align="left">
 <a href="https://www.hackerrank.com/certificates/484fd0dde00f"><img src="https://img.shields.io/badge/-Java_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/certificates/9d279adad44d"><img src="https://img.shields.io/badge/-Python_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/certificates/6679ea0c38e8"><img src="https://img.shields.io/badge/-Java_Script_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/certificates/e9ac1c7d8f34"><img src="https://img.shields.io/badge/-Java_Script_(Intermidiate)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/certificates/6da961172825"><img src="https://img.shields.io/badge/-CSS_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 </p>
 
