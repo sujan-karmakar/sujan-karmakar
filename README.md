@@ -65,7 +65,9 @@ My approach to growing is built on discipline and the value of time. I try to ut
 **HackerRank:**
 
 <p align="left">
-  <img src="https://hackerrank-badges.vercel.app/sk_05?theme=radical&font=Recursive&ext=activity" alt="LeetCode Stats" width="400" />
+  <a href="https://www.hackerrank.com/sk_05">
+    <img src="https://hackerrank-badges.vercel.app/sk_05" alt="HackerRank Badges" />
+  </a>
 </p>
 
 
