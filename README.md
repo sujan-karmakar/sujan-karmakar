@@ -38,9 +38,14 @@ My approach to growing is built on discipline and the value of time. I try to ut
 ---
 
 ### 🏆 Highlighted Projects:
-
 <p align="left">
   <a href="https://github.com/sujan-karmakar/sujan-karmakar-portfolio">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sujan-karmakar&repo=sujan-karmakar-portfolio&theme=radical" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/sujan-karmakar/RandomFetch">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sujan-karmakar&repo=sujan-karmakar-portfolio&theme=radical" />
   </a>
 </p>
