@@ -46,9 +46,9 @@ My approach to growing is built on discipline and the value of time. I try to ut
           <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sujan-karmakar&repo=sujan-karmakar-portfolio&theme=tokyonight" />
         </a>
       </td>
-      <td valign="middle">
-        <a href="YOUR_DEPLOYMENT_URL_HERE">
-          <img src="https://img.shields.io/badge/Live_Demo-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      <td valign="middle" align="center">
+        <a href="https://sujan-karmakar-portfolio.netlify.app/">
+          <img src="https://img.shields.io/badge/Portfolio_Live-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" />
         </a>
       </td>
     </tr>
@@ -59,9 +59,9 @@ My approach to growing is built on discipline and the value of time. I try to ut
           <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sujan-karmakar&repo=RandomFetch&theme=tokyonight" />
         </a>
       </td>
-      <td valign="middle">
+      <td valign="middle" align="center">
         <a href="https://random-fetch.vercel.app/">
-          <img src="https://img.shields.io/badge/Live_Demo-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" />
+          <img src="https://img.shields.io/badge/Random_Fetch_Live-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" />
         </a>
       </td>
     </tr>
