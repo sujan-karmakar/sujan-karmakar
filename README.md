@@ -38,15 +38,35 @@ My approach to growing is built on discipline and the value of time. I try to ut
 ---
 
 ### 🏆 Highlighted Projects:
-<p align="left">
-  <a href="https://github.com/sujan-karmakar/sujan-karmakar-portfolio">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sujan-karmakar&repo=sujan-karmakar-portfolio&theme=radical" />
-  </a>
-
-  <a href="https://github.com/sujan-karmakar/RandomFetch">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sujan-karmakar&repo=RandomFetch&theme=radical" />
-  </a>
-</p>
+<div align="left">
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://github.com/sujan-karmakar/sujan-karmakar-portfolio">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sujan-karmakar&repo=sujan-karmakar-portfolio&theme=tokyonight" />
+        </a>
+      </td>
+      <td valign="middle">
+        <a href="YOUR_DEPLOYMENT_URL_HERE">
+          <img src="https://img.shields.io/badge/Live_Demo-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  
+   <tr>
+      <td>
+        <a href="https://github.com/sujan-karmakar/RandomFetch">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sujan-karmakar&repo=RandomFetch&theme=tokyonight" />
+        </a>
+      </td>
+      <td valign="middle">
+        <a href="https://random-fetch.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_Demo-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
