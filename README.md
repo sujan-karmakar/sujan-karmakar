@@ -132,7 +132,7 @@ My approach to growing is built on discipline and the value of time. I try to ut
       <img width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sujan-karmakar&theme=radical" alt="GitHub Stats"/>
     </td>
     <td align="center">
-      <img width="600em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sujan-karmakar&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
+      <img width="600em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sujan-karmakar&layout=compact&theme=radical" alt="Top Languages" />
     </td>
   </tr>
 </table>
