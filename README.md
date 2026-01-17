@@ -158,3 +158,8 @@ My approach to growing is built on discipline and the value of time. I try to ut
 <a href="https://www.instagram.com/s.karmakar18" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://sujan-karmakar-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-252a33?style=for-the-badge&logo=aboutme&logoColor=white" alt="Portfolio" /></a>
 </p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8013e8&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=25" width="100%" />
+</p>
