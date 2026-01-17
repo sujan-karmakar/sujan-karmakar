@@ -49,12 +49,12 @@ My approach to growing is built on discipline and the value of time. I try to ut
   <table border="0">
     <tr>
       <td>
-        <a href="https://github.com/sujan-karmakar/sujan-karmakar-portfolio">
+        <a href="https://github.com/sujan-karmakar/sujan-karmakar-portfolio" target="_blank">
           <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sujan-karmakar&repo=sujan-karmakar-portfolio&theme=tokyonight" />
         </a>
       </td>
       <td valign="middle" align="center">
-        <a href="https://sujan-karmakar-portfolio.netlify.app/">
+        <a href="https://sujan-karmakar-portfolio.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/Portfolio_Live-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" />
         </a>
       </td>
@@ -62,12 +62,12 @@ My approach to growing is built on discipline and the value of time. I try to ut
   
    <tr>
       <td>
-        <a href="https://github.com/sujan-karmakar/RandomFetch">
+        <a href="https://github.com/sujan-karmakar/RandomFetch" target="_blank">
           <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sujan-karmakar&repo=RandomFetch&theme=tokyonight" />
         </a>
       </td>
       <td valign="middle" align="center">
-        <a href="https://random-fetch.vercel.app/">
+        <a href="https://random-fetch.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Random_Fetch_Live-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" />
         </a>
       </td>
@@ -79,8 +79,8 @@ My approach to growing is built on discipline and the value of time. I try to ut
 
 ### 🧩 Problem Solving:
 <p>
-<a href="https://leetcode.com/u/sk-05/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
-<a href="https://www.hackerrank.com/profile/sk_05"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>
+<a href="https://leetcode.com/u/sk-05/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" alt="LeetCode" /></a>
+<a href="https://www.hackerrank.com/profile/sk_05"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank" alt="HackerRank" /></a>
 </p>
 
 ---
@@ -89,23 +89,23 @@ My approach to growing is built on discipline and the value of time. I try to ut
 
 **Leetcode:**
 <p align="left">
-  <img src="https://leetcard.jacoblin.cool/sk-05?theme=radical&font=Recursive&ext=activity" alt="LeetCode Stats" width="400" />
+  <img src="https://leetcard.jacoblin.cool/sk-05?theme=radical&font=Recursive&ext=activity" target="_blank" alt="LeetCode Stats" width="400" />
 </p>
 
 **HackerRank:**
 
 <p align="left">
   <a href="https://www.hackerrank.com/sk_05">
-    <img src="https://hackerrank-badges.vercel.app/sk_05" alt="HackerRank Badges" />
+    <img src="https://hackerrank-badges.vercel.app/sk_05" target="_blank" alt="HackerRank Badges" />
   </a>
 </p>
 
 
 <p align="left">
-<a href="https://www.hackerrank.com/certificates/484fd0dde00f"><img src="https://img.shields.io/badge/-Java_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/certificates/9d279adad44d"><img src="https://img.shields.io/badge/-Python_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/certificates/e9ac1c7d8f34"><img src="https://img.shields.io/badge/-Java_Script_(Intermidiate)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/certificates/6da961172825"><img src="https://img.shields.io/badge/-CSS_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/certificates/484fd0dde00f" target="_blank"><img src="https://img.shields.io/badge/-Java_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/certificates/9d279adad44d" target="_blank"><img src="https://img.shields.io/badge/-Python_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/certificates/e9ac1c7d8f34" target="_blank"><img src="https://img.shields.io/badge/-Java_Script_(Intermidiate)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/certificates/6da961172825" target="_blank"><img src="https://img.shields.io/badge/-CSS_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 </p>
 
 
@@ -153,7 +153,7 @@ My approach to growing is built on discipline and the value of time. I try to ut
 ---
 ### 🌐 How to reach me: 
 <p align="left">
-<a href="https://www.linkedin.com/in/sujan-karmakar"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/s.karmakar18"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://sujan-karmakar-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-252a33?style=for-the-badge&logo=aboutme&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/sujan-karmakar" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/s.karmakar18" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://sujan-karmakar-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-252a33?style=for-the-badge&logo=aboutme&logoColor=white" alt="Portfolio" /></a>
 </p>
