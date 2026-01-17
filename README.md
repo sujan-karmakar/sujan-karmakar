@@ -1,4 +1,6 @@
-# Hi, I'm Sujan Karmakar 👋
+<p align="center">
+  <img src="github-header-banner (1).png" alt="Header Image" width="100%">
+</p>
 
 ## 🚀 About Me:
 
