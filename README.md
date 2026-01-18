@@ -19,8 +19,10 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 
 
 ---
-
-### 🛠 Tech Stack
+<h2>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25em" height="25em"> &nbsp;
+  Tech Stack
+</h2>
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" align="right" width="60%" />
 
@@ -55,6 +57,7 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 </p>
 
 <br clear="right"/>
+
 ---
 
 ### 🏆 Highlighted Projects:
@@ -91,23 +94,31 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 ---
 
 ### 🧩 Problem Solving:
-<p>
-<a href="https://leetcode.com/u/sk-05/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" alt="LeetCode" /></a>
-<a href="https://www.hackerrank.com/profile/sk_05"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank" alt="HackerRank" /></a>
-</p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" align="right" width="40%" />
 
-### 💡 Problem Solving Metrics :
 
 **Leetcode:**
-<p align="left">
+<p>
+  <a href="https://leetcode.com/u/sk-05/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" alt="LeetCode" />
+  </a>
+</p>
+
+<p>
   <img src="https://leetcard.jacoblin.cool/sk-05?theme=radical&font=Recursive&ext=heatmap" target="_blank" alt="LeetCode Stats" width="400" />
 </p>
 
-**HackerRank:**
 
+
+**HackerRank:**
 <p align="left">
+  <a href="https://www.hackerrank.com/profile/sk_05"> 
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank" alt="HackerRank" />
+  </a>
+</p>
+
+<p>
   <a href="https://www.hackerrank.com/sk_05">
     <img src="https://hackerrank-badges.vercel.app/sk_05" target="_blank" alt="HackerRank Badges" />
   </a>
@@ -121,7 +132,7 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 <a href="https://www.hackerrank.com/certificates/6da961172825" target="_blank"><img src="https://img.shields.io/badge/-CSS_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 </p>
 
-
+<br clear="right"/>
 
 ---
 
