@@ -2,6 +2,15 @@
   <img src="github-header-banner (1).png" alt="Header Image" width="100%">
 </p>
 
+
+
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=CD9FCC&center=true&vCenter=true&width=435&lines=Hey..+I'm+Sujan;This+is..;..my+Github..;" alt="Typing SVG"/>
+    </h1>
+</div>
+
+
 <h1>
   <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="100em" height="40em">
   About Me 
