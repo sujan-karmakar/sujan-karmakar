@@ -3,9 +3,19 @@
 </p>
 
 ## 🚀 About Me:
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" align="right" width="450px" />
 
-### I am a Computer Science & Engineering undergraduate driven by the discipline of daily progression.
+I'm currently a CSE student at HETC with 8.5 CGPA.
 
+* Mainly working on **Web Development** projects.
+
+* Currently prepping for the **GATE exam** to head into M.Tech.
+
+* Grinding **DSA using C++** to get better at problem-solving.
+
+* Interested in **AI and Cybersecurity**.
+
+<br clear="right"/>
 
 
 ---
