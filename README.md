@@ -4,11 +4,9 @@
 
 ## 🚀 About Me:
 
-### I am a Computer Science & Engineering undergraduate driven by the discipline of daily progression and academic excellence.
+### I am a Computer Science & Engineering undergraduate driven by the discipline of daily progression.
 
 
-
-My approach to growing is built on discipline and the value of time. I try to utilize every bit of my free time to bridge the gap between academic theory and practical application. I believe that steady, incremental growth is the most reliable path to technical mastery.
 
 ---
 
