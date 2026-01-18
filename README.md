@@ -2,7 +2,10 @@
   <img src="github-header-banner (1).png" alt="Header Image" width="100%">
 </p>
 
-## 🚀 About Me:
+<h1>
+  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="100em" height="40em">
+  About Me 
+</h1>
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" align="right" width="450px" />
 
 I'm currently a CSE student at HETC with 8.5 CGPA.
@@ -20,7 +23,7 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 
 ---
 <h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25em" height="25em">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40em" height="30em">
   Tech Stack
 </h2>
 
@@ -135,8 +138,10 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 <br clear="right"/>
 
 ---
-
-### 📈 GitHub Activity:
+<h2>
+  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="100em" height="40em">
+  Github Activity
+</h2>
 
 <table width="100%" align="center">
   <tr>
@@ -175,7 +180,7 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 
 ---
 <h2>
-  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="25em" height="40em">
+  <img src="http://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30em" height="30em">
   Contact Me
 </h2>
 
