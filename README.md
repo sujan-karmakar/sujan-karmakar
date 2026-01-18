@@ -91,7 +91,7 @@ My approach to growing is built on discipline and the value of time. I try to ut
 
 **Leetcode:**
 <p align="left">
-  <img src="https://leetcard.jacoblin.cool/sk-05?theme=radical&font=Recursive&ext=activity" target="_blank" alt="LeetCode Stats" width="400" />
+  <img src="https://leetcard.jacoblin.cool/sk-05?theme=radical&font=Recursive&ext=heatmap" target="_blank" alt="LeetCode Stats" width="400" />
 </p>
 
 **HackerRank:**
