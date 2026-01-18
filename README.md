@@ -20,7 +20,7 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 
 ---
 <h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25em" height="25em"> &nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25em" height="25em">
   Tech Stack
 </h2>
 
@@ -174,7 +174,11 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 </table>
 
 ---
-### 🌐 How to reach me: 
+<h2>
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="25em" height="40em">
+  Contact Me
+</h2>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/sujan-karmakar" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.instagram.com/s.karmakar18" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
