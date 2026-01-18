@@ -109,7 +109,7 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 </p>
 
 <p>
-  <img src="https://leetcard.jacoblin.cool/sk-05?theme=radical&font=Recursive&ext=heatmap" target="_blank" alt="LeetCode Stats" width="400" />
+  <img src="https://leetcode-stats-fast.vercel.app/?username=sk-05&theme=radical&font=Recursive&ext=heatmap" target="_blank" alt="LeetCode Stats" width="400" />
 </p>
 
 
