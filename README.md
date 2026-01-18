@@ -20,7 +20,9 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 
 ---
 
-### 🛠 Tech Stack: 
+### 🛠 Tech Stack
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" align="right" width="60%" />
 
 **Languages**
 <p align="left">
@@ -52,6 +54,7 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" />
 </p>
 
+<br clear="right"/>
 ---
 
 ### 🏆 Highlighted Projects:
