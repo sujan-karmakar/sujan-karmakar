@@ -167,16 +167,18 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 
 <table width="100%" align="center">
   <tr>
-    <td align="center" width="50%">
-      <img width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sujan-karmakar&theme=radical" alt="GitHub Stats"/>
+    <td align="center" width="33%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sujan-karmakar&theme=radical" alt="GitHub Stats"/>
     </td>
-    <td align="center">
-      <img width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sujan-karmakar&layout=compact&theme=radical" alt="Top Languages" />
+    <td align="center" width="33%">
+      <img src="https://github-readme-streak-stats-six-azure-97.vercel.app?user=sujan-karmakar&theme=gotham" alt="GitHub Streak" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sujan-karmakar&layout=compact&theme=radical" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-six-azure-97.vercel.app?user=sujan-karmakar&theme=gotham" alt="GitHub Streak" /></a>
 
 
 
