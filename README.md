@@ -175,9 +175,9 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
     </td>
   </tr>
 </table>
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
+<table align="center" width="100%">
+  <tr width="50%">
+    <td align="center">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sujan-karmakar&layout=compact&theme=radical" alt="Top Languages" />
     </td>
   </tr>
