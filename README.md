@@ -176,6 +176,11 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
   </tr>
 </table>
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-six-azure-97.vercel.app?user=sujan-karmakar&theme=gotham" alt="GitHub Streak" /></a>
+
+
+
+
 ---
 
 ### 🐍 My Contribution Streak:
