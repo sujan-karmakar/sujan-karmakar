@@ -167,13 +167,17 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 
 <table width="100%" align="center">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sujan-karmakar&theme=radical" alt="GitHub Stats"/>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <img src="https://github-readme-streak-stats-six-azure-97.vercel.app?user=sujan-karmakar&theme=gotham" alt="GitHub Streak" />
     </td>
-    <td align="center" width="33%">
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sujan-karmakar&layout=compact&theme=radical" alt="Top Languages" />
     </td>
   </tr>
