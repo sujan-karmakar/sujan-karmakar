@@ -171,7 +171,7 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sujan-karmakar&theme=radical" alt="GitHub Stats"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats-six-azure-97.vercel.app?user=sujan-karmakar&theme=gotham" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats-six-azure-97.vercel.app?user=sujan-karmakar&theme=radical" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
