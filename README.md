@@ -54,7 +54,7 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 ### 🏆 Highlighted Projects:
 
 | Repo Card | Live Link |
-| :--- | :---: |
+| :---: | :---: |
 | [![Portfolio](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sujan-karmakar&repo=sujan-karmakar-portfolio&theme=tokyonight)](https://github.com/sujan-karmakar/sujan-karmakar-portfolio) | [![Portfolio Live](https://img.shields.io/badge/Portfolio_Live-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sujan-karmakar-portfolio.netlify.app/) |
 | [![RandomFetch](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sujan-karmakar&repo=RandomFetch&theme=tokyonight)](https://github.com/sujan-karmakar/RandomFetch) | [![Random Fetch Live](https://img.shields.io/badge/Random_Fetch_Live-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://random-fetch.vercel.app/) |
 
