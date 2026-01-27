@@ -98,7 +98,7 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 
 <div align="center">
 
-| Commits | Repos |
+| Repos | Commits |
 | :---: | :---: |
 | ![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujan-karmakar&theme=radical) | ![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujan-karmakar&theme=radical) |
 
