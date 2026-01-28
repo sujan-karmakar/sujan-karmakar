@@ -80,13 +80,9 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 | ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sujan-karmakar&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats-six-azure-97.vercel.app?user=sujan-karmakar&theme=radical) |
 
 
-<div align="center">
-
-| Repos | Commits |
-| :---: | :---: |
-| ![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujan-karmakar&theme=radical) | ![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujan-karmakar&theme=radical) |
-
-</div>
+<p align="center">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sujan-karmakar&layout=compact&theme=radical&hide=html,css" width="500" alt="Top Languages" />
+</p>
 
 
 ---
