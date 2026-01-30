@@ -44,15 +44,20 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 
 ### 🏆 Highlighted Projects:
 
+<div align="center">
+
+
 | Repo Card | Live Link |
-| :---: | :---: |
+| :--- | :---: |
 | [![Portfolio](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sujan-karmakar&repo=sujan-karmakar-portfolio&theme=tokyonight)](https://github.com/sujan-karmakar/sujan-karmakar-portfolio) | [![Portfolio Live](https://img.shields.io/badge/Portfolio_Live-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sujan-karmakar-portfolio.netlify.app/) |
 | [![RandomFetch](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sujan-karmakar&repo=RandomFetch&theme=tokyonight)](https://github.com/sujan-karmakar/RandomFetch) | [![Random Fetch Live](https://img.shields.io/badge/Random_Fetch_Live-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://random-fetch.vercel.app/) |
+
+</div>
 
 ---
 
 ### 🧩 Problem Solving & Competitive Programming
-
+<br><br>
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/sk-05/)
 
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" align="right" width="40%"/>
@@ -60,8 +65,8 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 <img src="https://leetcode-stats-fast.vercel.app/?username=sk-05&theme=radical&font=Recursive&ext=heatmap" width="55%">
 
 <br clear="right"/>
+<br>
 
-#### 🏆 HackerRank Achievements
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/sk_05)
 
 [![HackerRank Badges](https://hackerrank-badges.vercel.app/sk_05)](https://www.hackerrank.com/sk_05)
@@ -74,8 +79,6 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 [![CSS](https://img.shields.io/badge/-CSS_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/6da961172825)
 
 <br clear="right"/>
-
----
 
 ---
 
