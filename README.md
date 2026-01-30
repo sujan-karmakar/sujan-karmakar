@@ -58,7 +58,12 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 
 ### 🧩 Problem Solving & Competitive Programming
 <br><br>
+
+<div align="center">
+    
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/sk-05/)
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" align="right" width="40%"/>
 <br><br>
@@ -66,6 +71,8 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 
 <br clear="right"/>
 <br>
+
+
 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/sk_05)
 
@@ -110,9 +117,13 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 
 ## <img src="http://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" height="30"> Contact Me
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/sujan-karmakar)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/s.karmakar18)
 [![Portfolio](https://img.shields.io/badge/Portfolio-252a33?style=for-the-badge&logo=aboutme&logoColor=white)](https://sujan-karmakar-portfolio.netlify.app/)
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8013e8&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=25" width="100%" />
