@@ -8,13 +8,19 @@
 
 # <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="200em" height="40em"> About Me 
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" align="right" width="450px" />
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" align="right" width="50%" />
 
 I'm currently a CSE student at HETC with 8.5 CGPA.
 
 * Mainly working on **Web Development** projects.
+
+
 * Currently prepping for the **GATE exam** to head into M.Tech.
+
+  
 * Grinding **DSA using C++** to get better at problem-solving.
+
+  
 * Interested in **AI and Cybersecurity**.
 
 <br clear="right"/>
@@ -45,26 +51,31 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 
 ---
 
-### 🧩 Problem Solving:
+### 🧩 Problem Solving & Competitive Programming
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" align="right" width="40%" />
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/sk-05/)
 
-**Leetcode:**
-[![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/sk-05/)
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" align="right" width="40%"/>
+<br><br>
+<img src="https://leetcode-stats-fast.vercel.app/?username=sk-05&theme=radical&font=Recursive&ext=heatmap" width="55%">
 
-![LeetCode Stats](https://leetcode-stats-fast.vercel.app/?username=sk-05&theme=radical&font=Recursive&ext=heatmap)
+<br clear="right"/>
 
-**HackerRank:**
-[![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/sk_05)
+#### 🏆 HackerRank Achievements
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/sk_05)
 
 [![HackerRank Badges](https://hackerrank-badges.vercel.app/sk_05)](https://www.hackerrank.com/sk_05)
 
-[![Java (Basic)](https://img.shields.io/badge/-Java_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/484fd0dde00f)
-[![Python (Basic)](https://img.shields.io/badge/-Python_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/9d279adad44d)
-[![JS (Intermediate)](https://img.shields.io/badge/-Java_Script_(Intermidiate)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/e9ac1c7d8f34)
-[![CSS (Basic)](https://img.shields.io/badge/-CSS_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/6da961172825)
+<br/>
+
+[![Java](https://img.shields.io/badge/-Java_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/484fd0dde00f)
+[![Python](https://img.shields.io/badge/-Python_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/9d279adad44d)
+[![JS](https://img.shields.io/badge/-JS_(Intermediate)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/e9ac1c7d8f34)
+[![CSS](https://img.shields.io/badge/-CSS_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/6da961172825)
 
 <br clear="right"/>
+
+---
 
 ---
 
