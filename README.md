@@ -6,7 +6,7 @@
     </h1>
 </div>
 
-# <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="200em" height="40em"> About Me 
+# <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="200em" height="40em" > About Me 
 
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" align="right" width="50%" />
 
@@ -56,9 +56,7 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 
 ---
 
-### 🧩 Problem Solving & Competitive Programming
-<br><br>
-
+### <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njk5MTYzNDMsIm5iZiI6MTc2OTkxNjA0MywicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjAxVDAzMjA0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBmYzNkOGU4ZTIwOGU3YTljM2UwNTZhNjRlNjkyMDI0MTJhMTFhYzk4ZGJiMWU5YjM3YzA1YjA3OGIzMzA3ZDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Ar9BoSFPqzkmCc3G5rPUU69YKgLf1elyd5cO402wF3I" width="80" height="50" align="middle"> &nbsp;&nbsp;Problem Solving & Competitive Programming
 
     
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/sk-05/)
@@ -89,7 +87,7 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="100" height="40"> Github Activity
+## <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="100" height="40" align="middle"> Github Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujan-karmakar&theme=radical&bg_color=1a1b27&hide_border=true" width="100%">
