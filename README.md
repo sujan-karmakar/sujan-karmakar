@@ -34,7 +34,7 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 <br><br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,c,cpp,html,css,js,bootstrap,tailwind,nodejs,express,mysql,mongodb,netlify,vercel,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=java,py,c,cpp,html,css,js,bootstrap,tailwind,nodejs,express,mysql,postgresql,mongodb,netlify,vercel,git,github,vscode" />
   </a>
 </p>
 
