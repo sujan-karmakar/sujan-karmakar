@@ -56,7 +56,7 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 
 ---
 
-### <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzExNjIwNjUsIm5iZiI6MTc3MTE2MTc2NSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjE1VDEzMjI0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBjOTQ1YTIzNDU0OWJjNWNlNzk1ZmY1Y2MwODk4ZTFkZDhhNTc1MDFjYmZiMzIzOTEwNGRjMjdmMzM5ZTI2NjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.UQ_dKfnkAGyfJK4d_CtDuqxCRWlapObj_0Qazi0GQyI" width="80" height="50" align="middle"> &nbsp;&nbsp;Problem Solving & Competitive Programming
+### 🧩 Problem Solving & Competitive Programming
 
     
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/sk-05/)
