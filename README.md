@@ -80,7 +80,9 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 [![Java](https://img.shields.io/badge/-Java_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/484fd0dde00f)
 [![Python](https://img.shields.io/badge/-Python_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/9d279adad44d)
 [![JS](https://img.shields.io/badge/-JS_(Intermediate)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/e9ac1c7d8f34)
-[![CSS](https://img.shields.io/badge/-CSS_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/6da961172825)
+[![C](https://img.shields.io/badge/-CSS_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/6da961172825)
+[![SQL](https://img.shields.io/badge/-CSS_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/26630aff55dc)
+
 
 <br clear="right"/>
 
