@@ -1,4 +1,4 @@
-# <p align="center">![Header Image](github-header-banner%20(1).png)</p>
+# <p align="center">![Header Image](github-header-banner.png)</p>
 
 <div align="center">
     <h1>
