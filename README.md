@@ -21,7 +21,7 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 * Grinding **DSA using C++** to get better at problem-solving.
 
   
-* Interested in **AI and Cybersecurity**.
+* Interested in **AI**.
 
 <br clear="right"/>
 
