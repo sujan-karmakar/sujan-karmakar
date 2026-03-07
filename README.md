@@ -49,10 +49,8 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 
 | Repo Card | Live Link |
 | :--- | :---: |
-| [![WanderLust](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sujan-karmakar&repo=WanderLust&theme=tokyonight)](https://github.com/sujan-karmakar/WanderLust) | [![WanderLust Live](https://img.shields.io/badge/WanderLust_Live-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wanderlust-60i5.onrender.com/listings) |
 | [![Play.exe](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sujan-karmakar&repo=Play.exe&theme=tokyonight)](https://github.com/sujan-karmakar/Play.exe) | [![Play.exe Live](https://img.shields.io/badge/Play.exe_Live-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://play-exe.onrender.com/) |
-
-
+| [![WanderLust](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sujan-karmakar&repo=WanderLust&theme=tokyonight)](https://github.com/sujan-karmakar/WanderLust) | [![WanderLust Live](https://img.shields.io/badge/WanderLust_Live-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wanderlust-60i5.onrender.com/listings) |
 
 </div>
 
