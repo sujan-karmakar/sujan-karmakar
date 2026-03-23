@@ -14,9 +14,6 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 
 * Mainly working on **Web Development** projects.
 
-
-* Currently prepping for the **GATE exam** to head into M.Tech.
-
   
 * Grinding **DSA using C++** to get better at problem-solving.
 
