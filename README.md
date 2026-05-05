@@ -69,7 +69,7 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/sk_05)
 
-[![HackerRank Badges](https://hackerrank-badges.vercel.app/sk_05)](https://www.hackerrank.com/sk_05)
+[![Hackerrank badges](https://hackerrank-badges.vercel.app/sk_05)](https://hackerrank.com/profile/sk_05)
 
 <br/>
 
