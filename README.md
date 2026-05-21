@@ -77,30 +77,37 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 
     
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/sk-05/)
-
-<br><br>
+<p align="center">
 <img src="https://leetcode-stats-fast.vercel.app/?username=sk-05&theme=radical&font=Recursive&ext=heatmap" width="55%">
 &nbsp; &nbsp;
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=sk-05&animated=true&theme=nightowl" alt="LeetCode Badges" />
 <br clear="right"/>
+</p>
 <br>
 
 
 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/sk_05)
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" align="right" width="40%"/>
-[![Hackerrank badges](https://hackerrank-badges.vercel.app/sk_05)](https://hackerrank.com/profile/sk_05)
-
-<br/>
-
-[![Java](https://img.shields.io/badge/-Java_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/484fd0dde00f)
-[![Python](https://img.shields.io/badge/-Python_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/9d279adad44d)
-[![JS](https://img.shields.io/badge/-JS_(Intermediate)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/e9ac1c7d8f34)
-[![CSS](https://img.shields.io/badge/-CSS_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/6da961172825)
-[![SQL](https://img.shields.io/badge/-SQL-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/26630aff55dc)
-
-
-<br clear="right"/>
+<p align="center">
+  <!-- Left Side: Badges & Certificates -->
+  <span style="display: inline-block; vertical-align: top; width: 55%;">
+        <img src="https://hackerrank-badges.vercel.app/sk_05" alt="Hackerrank badges" />
+        &nbsp; &nbsp;
+        <span style="display: inline-block; vertical-align: top; width: 35%; text-align: right;">
+            <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="260px" />
+        </span>
+        <br/><br/>
+      <p align="center">
+          <img src="https://img.shields.io/badge/-Java_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Java" />
+          <img src="https://img.shields.io/badge/-Python_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/-JS_(Intermediate)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="JS" />
+          <img src="https://img.shields.io/badge/-CSS_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="CSS" />
+          <img src="https://img.shields.io/badge/-SQL-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="SQL" />
+      </p>
+  </span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<br clear="all" />
 
 ---
 
