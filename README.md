@@ -59,7 +59,7 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/sk-05/)
 
 <br><br>
-<img align="left" src="https://leetcode-stats-fast.vercel.app/?username=sk-05&theme=radical&font=Recursive&ext=heatmap" width="55%">
+<img src="https://leetcode-stats-fast.vercel.app/?username=sk-05&theme=radical&font=Recursive&ext=heatmap" width="55%">
 &nbsp; &nbsp;
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=sk-05&animated=true&theme=nightowl" alt="LeetCode Badges" />
 <br clear="right"/>
