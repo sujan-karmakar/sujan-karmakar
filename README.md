@@ -101,7 +101,7 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
           <a href="https://www.hackerrank.com/certificates/9d279adad44d" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Python_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Python" /></a>
           <a href="https://www.hackerrank.com/certificates/e9ac1c7d8f34" style="text-decoration: none;"><img src="https://img.shields.io/badge/-JS_(Intermediate)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="JS" /></a>
           <a href="https://www.hackerrank.com/certificates/6da961172825" style="text-decoration: none;"><img src="https://img.shields.io/badge/-CSS_(Basic)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="CSS" /></a>
-          <a href="https://www.hackerrank.com/certificates/26630aff55dc" style="text-decoration: none;"><img src="https://img.shields.io/badge/-SQL-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="SQL" /></a>
+          <a href="https://www.hackerrank.com/certificates/26630aff55dc" style="text-decoration: none;"><img src="https://img.shields.io/badge/-SQL_(Advanced)-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="SQL" /></a>
       </p>
   </span>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
