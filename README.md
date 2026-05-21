@@ -58,17 +58,17 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
     
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/sk-05/)
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" align="right" width="40%"/>
 <br><br>
-<img src="https://leetcode-stats-fast.vercel.app/?username=sk-05&theme=radical&font=Recursive&ext=heatmap" width="55%">
-
+<img align="left" src="https://leetcode-stats-fast.vercel.app/?username=sk-05&theme=radical&font=Recursive&ext=heatmap" width="55%">
+&nbsp; &nbsp;
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=sk-05&animated=true&theme=nightowl" alt="LeetCode Badges" />
 <br clear="right"/>
 <br>
 
 
 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/sk_05)
-
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" align="right" width="40%"/>
 [![Hackerrank badges](https://hackerrank-badges.vercel.app/sk_05)](https://hackerrank.com/profile/sk_05)
 
 <br/>
