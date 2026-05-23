@@ -145,8 +145,8 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 
 
 <p align="center">
-    <img height="440px" width="440px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujan-karmakar&theme=tokyonight" width="500" alt="Top Languages" />
-    <img height="440px" width="440px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujan-karmakar&theme=tokyonight&utcOffset=8">
+    <img height="400px" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujan-karmakar&theme=tokyonight" width="500" alt="Top Languages" />
+    <img height="400px" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujan-karmakar&theme=tokyonight&utcOffset=8">
 </p>
 
 
