@@ -145,7 +145,8 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 
 
 <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sujan-karmakar&layout=compact&theme=radical&hide=html,css" width="500" alt="Top Languages" />
+    <img height="440px" width="440px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujan-karmakar&theme=tokyonight" width="500" alt="Top Languages" />
+    <img height="440px" width="440px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujan-karmakar&theme=tokyonight&utcOffset=8">
 </p>
 
 
@@ -153,7 +154,7 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 
 ### 🐍 My Contribution Streak:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sujan-karmakar/sujan-karmakar/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/sujan-karmakar/sujan-karmakar/output/github-snake-dark.svg" alt = "Languages">
 </p>
 
 ---
