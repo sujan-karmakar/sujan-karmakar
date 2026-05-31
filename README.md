@@ -88,8 +88,8 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 
 | Repo Card | Live Link |
 | :--- | :---: |
-| [![Play.exe](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sujan-karmakar&repo=Play.exe&theme=tokyonight)](https://github.com/sujan-karmakar/Play.exe) | [![Play.exe Live](https://img.shields.io/badge/Play.exe_Live-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://play-exe.onrender.com/) |
-| [![WanderLust](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sujan-karmakar&repo=WanderLust&theme=tokyonight)](https://github.com/sujan-karmakar/WanderLust) | [![WanderLust Live](https://img.shields.io/badge/WanderLust_Live-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wanderlust-60i5.onrender.com/listings) |
+| [![Play.exe](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sujan-karmakar&repo=Play.exe&theme=merko)](https://github.com/sujan-karmakar/Play.exe) | [![Play.exe Live](https://img.shields.io/badge/Play.exe_Live-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://play-exe.onrender.com/) |
+| [![WanderLust](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sujan-karmakar&repo=WanderLust&theme=merko)](https://github.com/sujan-karmakar/WanderLust) | [![WanderLust Live](https://img.shields.io/badge/WanderLust_Live-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wanderlust-60i5.onrender.com/listings) |
 
 </div>
 
@@ -100,9 +100,9 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
     
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/sk-05/)
 <p align="center">
-  <img src="https://leetcode-stats-fast.vercel.app/?username=sk-05&theme=radical&font=Recursive&ext=heatmap" height="320px" />
+  <img src="https://leetcode-stats-fast.vercel.app/?username=sk-05&theme=transparent&animated=true&font=Recursive&ext=heatmap" height="320px" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=sk-05&animated=true&theme=nightowl" alt="LeetCode Badges" height="320px" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=sk-05&animated=true&theme=github-dark" alt="LeetCode Badges" height="320px" />
 </p>
 <br>
 
@@ -135,18 +135,18 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 ## <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="100" height="40" align="middle"> Github Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujan-karmakar&theme=radical&bg_color=1a1b27&hide_border=true" width="100%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujan-karmakar&theme=radical" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujan-karmakar&theme=merko&bg_color=1a1b27&hide_border=true" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujan-karmakar&theme=github_dark" width="100%">
 </p>
 
 | Stats | Streak |
 | :---: | :---: |
-| ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sujan-karmakar&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats-six-azure-97.vercel.app?user=sujan-karmakar&theme=radical) |
+| ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sujan-karmakar&theme=merko) | ![GitHub Streak](https://github-readme-streak-stats-six-azure-97.vercel.app?user=sujan-karmakar&theme=github_dark) |
 
 
 <p align="center">
-    <img height="400px" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujan-karmakar&theme=tokyonight" width="500" alt="Top Languages" />
-    <img height="400px" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujan-karmakar&theme=tokyonight&utcOffset=8">
+    <img height="400px" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujan-karmakar&theme=github_dark" width="500" alt="Top Languages" />
+    <img height="400px" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujan-karmakar&theme=github_dark&utcOffset=8">
 </p>
 
 
