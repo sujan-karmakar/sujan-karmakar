@@ -68,6 +68,8 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 &nbsp;&nbsp;
 <img width="72px" height="72px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
 &nbsp;&nbsp;
+<img width="72px" height="72px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg" />
+&nbsp;&nbsp;
 <img width="72px" height="72px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original-wordmark.svg" />
 &nbsp;&nbsp;
 <img width="72px" height="72px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
