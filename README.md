@@ -138,7 +138,7 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujan-karmakar&theme=merko&bg_color=1a1b27&hide_border=true" width="100%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujan-karmakar&theme=github_dark" width="100%">
+ <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujan-karmakar&theme=github_dark" width="100%"> -->
 </p>
 
 | Stats | Streak |
@@ -147,8 +147,9 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 
 
 <p align="center">
-    <img height="400px" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujan-karmakar&theme=github_dark" width="500" alt="Top Languages" />
-    <img height="400px" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujan-karmakar&theme=github_dark&utcOffset=8">
+    <img height="400px" width="400px" src="https://github-stats-extended.vercel.app/api/top-langs?username=sujan-karmakar&langs_count=8&theme=dark" alt="Top Languages" />
+   <!-- <img height="400px" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujan-karmakar&theme=github_dark" width="500" alt="Top Languages" />
+    <img height="400px" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujan-karmakar&theme=github_dark&utcOffset=8"> -->
 </p>
 
 
