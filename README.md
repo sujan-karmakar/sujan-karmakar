@@ -147,7 +147,7 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 
 
 <p align="center">
-     <img height="400px" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujan-karmakar&theme=github_dark&animation=sequence" width="500" alt="Top Languages" />
+     <img height="400px" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujan-karmakar&theme=github_dark&animation=sequence" width="500" alt="Top Languages" />
     <img height="400px" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujan-karmakar&theme=github_dark&&animation=sequence&utcOffset=8">
 </p>
 
