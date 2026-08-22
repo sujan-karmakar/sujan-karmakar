@@ -90,8 +90,8 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 
 | Repo Card | Live Link |
 | :--- | :---: |
-| [![Play.exe](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sujan-karmakar&repo=Play.exe&theme=merko)](https://github.com/sujan-karmakar/Play.exe) | [![Play.exe Live](https://img.shields.io/badge/Play.exe_Live-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://play-exe.onrender.com/) |
-| [![WanderLust](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sujan-karmakar&repo=WanderLust&theme=merko)](https://github.com/sujan-karmakar/WanderLust) | [![WanderLust Live](https://img.shields.io/badge/WanderLust_Live-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wanderlust-60i5.onrender.com/listings) |
+| [![Play.exe](https://github-stats-extended.vercel.app/api/pin?username=sujan-karmakar&repo=sujan-karmakar%2FPlay.exe&show_owner=true&theme=dark)](https://github.com/sujan-karmakar/Play.exe) | [![Play.exe Live](https://img.shields.io/badge/Play.exe_Live-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://play-exe.onrender.com/) |
+| [![WanderLust](https://github-stats-extended.vercel.app/api/pin?username=sujan-karmakar&repo=sujan-karmakar%2FWanderLust&show_owner=true&theme=dark)](https://github.com/sujan-karmakar/WanderLust) | [![WanderLust Live](https://img.shields.io/badge/WanderLust_Live-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wanderlust-60i5.onrender.com/listings) |
 
 </div>
 
@@ -143,7 +143,7 @@ I'm currently a CSE student at HETC with 8.5 CGPA.
 
 | Stats | Streak |
 | :---: | :---: |
-| ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sujan-karmakar&theme=merko) | ![GitHub Streak](https://github-readme-streak-stats-six-azure-97.vercel.app?user=sujan-karmakar&theme=github_dark) |
+| ![Sujan's GitHub stats](https://github-stats-extended.vercel.app/api?username=sujan-karmakar&theme=merko) | ![GitHub Streak](https://github-readme-streak-stats-six-azure-97.vercel.app?user=sujan-karmakar&theme=github_dark) |
 
 
 <p align="center">
